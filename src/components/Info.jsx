@@ -5,7 +5,7 @@ export default function Info() {
 
     return (
         <div className="info--div">
-            <img src="..\src\assets\pfp (2).png" width="317px" alt="" />
+            <img src="..\src\assets\pfp1.png" width="317px" alt="" />
 
             <h2>Samaya Nuqayti</h2>
             <h6>Front-End Engineer</h6>
